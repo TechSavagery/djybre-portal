@@ -106,7 +106,7 @@ export default function MainLayout({
               <Link href="/">Blaire + Derek</Link>
             </p>
             <p className="mt-3 text-sm font-medium leading-8 text-slate-700">
-              Celebrating our Love. We're giving you the AUX! Help curate the soundtrack for an
+              Celebrating our Love. We&apos;re giving you the AUX! Help curate the soundtrack for an
               unforgettable night of celebration!
             </p>
           </div>
