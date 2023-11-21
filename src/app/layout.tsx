@@ -4,12 +4,13 @@ import '@/styles/tailwind.css'
 
 export const metadata: Metadata = {
   title: {
-    template: '%s - Their Side',
-    default:
-      'Their Side - Conversations with the most tragically misunderstood people of our time',
+    template: '%s - Playlist Requests',
+    default: 'Blaire + Derek',
   },
-  description:
-    'Conversations with the most tragically misunderstood people of our time.',
+  description: 'Dance playlist requests for our wedding!',
+  openGraph: {
+    images: [{ url: '/images/hill-wedding.png' }],
+  },
 }
 
 export default function RootLayout({
