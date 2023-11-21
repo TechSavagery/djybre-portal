@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import Search from './Search'
 
 function NewComponent() {
-  return <Search state={true} />
+  return <Search />
 }
 
 export default function Example() {
